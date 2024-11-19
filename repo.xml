@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.cineroom"
+       name="CineRoom Repository"
+       version="1.0.0"
+       provider-name="Gael">
+    <url>https://cineroom.github.io/repo/</url>
+    <repository>
+        <addon id="plugin.video.cineroom"
+               name="CineRoom"
+               version="1.0"
+               provider-name="Gael">
+            <summary lang="pt_BR">Addon CineRoom para agregação de links de filmes.</summary>
+            <description lang="pt_BR">CineRoom é um agregador de links para filmes e séries.</description>
+            <content>video</content>
+            <platform>all</platform>
+            <location zip="https://cineroom.github.io/repo/plugin.video.cineroom.zip"/>
+        </addon>
+    </repository>
+</addon>
