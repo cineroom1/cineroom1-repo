@@ -1,8 +1,8 @@
 <addons>
     <addon id="plugin.video.cineroom"
-           version="4.0"
+           version="4.1.2"
            name="Cineroom"
            provider-name="Gael"
-           url="https://raw.githubusercontent.com/cineroom1/cineroom1-repo/main/zips/repository.cineroom-1.0.0.zip">
+           url="https://raw.githubusercontent.com/cineroom1/cineroom1-repo/main/zips/plugin.video.cineroom-4.1.2.zip">
     </addon>
 </addons>
