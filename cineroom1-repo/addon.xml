@@ -3,9 +3,9 @@
        provider-name="Gael">
     <extension point="xbmc.addon.repository"
                name="CineRoom Repository">
-        <info compressed="false">https://raw.githubusercontent.com/seuusuario/repository.cineroom/main/zips/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/seuusuario/repository.cineroom/main/zips/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/seuusuario/repository.cineroom/main/zips/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/cineroom1/cineroom1-repo/main/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/cineroom1/cineroom1-repo/main/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/cineroom1/cineroom1-repo/main/zips/</datadir>
     </extension>
     <assets>
         <icon>icon.png</icon>
